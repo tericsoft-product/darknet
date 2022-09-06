@@ -1,4 +1,4 @@
-classes = 2
+classes = 1
 train = custom_config/train.txt
 valid = custom_config/test.txt
 names = custom_config/obj.names
