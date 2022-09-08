@@ -2,4 +2,4 @@ classes = 1
 train = custom_config/train.txt
 valid = custom_config/test.txt
 names = custom_config/obj.names
-backup = weights/
+backup = /content/drive/MyDrive/yolo_cassette_1000/
