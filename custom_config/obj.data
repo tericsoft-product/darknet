@@ -2,4 +2,4 @@ classes = 3
 train = custom_config/train.txt
 valid = custom_config/test.txt
 names = custom_config/obj.names
-backup = /content/drive/MyDrive/sdi/cassette/models/yolo_crop_cassette/
+backup = /content/drive/MyDrive/sdi/cassette/models/yolo_crop_cassette_256/
